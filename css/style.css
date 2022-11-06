@@ -1,0 +1,43 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+
+#title{
+    margin : 2% 7%;
+    
+}
+
+.title-text{
+    font-size:  3.2rem;
+    font-family: 'Times New Roman', 'Times', 'serif';
+    font-weight: 900;
+}
+
+#avatar {
+    float: left;
+    width: 70%;
+    height: 28rem;
+    border: 1px solid black;
+    margin-right: 4%;
+  }
+  
+  .avatar img {
+    height: 0.5 rem;
+    max-width: 100%;
+    display: block;
+    
+    }
+
+td{
+    padding: 3%;
+}
+
+.container{
+    margin-bottom: 2%;
+}
+
+.last-div{
+   text-align: center;
+    margin: 5% 3%;
+    
+}
